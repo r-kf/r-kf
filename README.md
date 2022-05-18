@@ -35,10 +35,12 @@ Here are some ideas to get you started:
 
   
 </p>
-
+<!--
 ## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=r-kf&show_icons=true&theme=dark)
+-->
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-kf&theme=dark)
 -->
